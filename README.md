@@ -115,6 +115,7 @@ Note that the included libaray of Raylib-J is a custom compiled version of Rayli
 - [ ] SPAGHETTI CODE MADNESS
   - There is a structure, but it could be better, this is number 1 to fix currently
 - [ ] Delta time physics have to be tweak a little
+- [ ] After camera pan, grid snapping can be a bit off
 - If you find any other issues/bugs, post about it on the issues tab
   - Also provide what version your using, and how to reproduce it
 
