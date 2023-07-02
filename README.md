@@ -5,7 +5,7 @@
   <br>
   <b>Super Ray Maker</b>
   <br>
-  <sub><sup><b>About
+  <sub><sup><b>
 Super Ray Maker, a Mario Maker clone, made using Java and Raylib.</b></sup></sub>
   <br>
 
@@ -13,7 +13,7 @@ Super Ray Maker, a Mario Maker clone, made using Java and Raylib.</b></sup></sub
 
 <p align="center">
        Super Ray Maker (SRM), is a open source Mario Maker clone! <strong>Build levels</strong>, and <strong>share them to your friends</strong>.</br></br>
-  For developers, this was made using pure Java, and the Raylib-J library. Raylib is amazing C library mabe by Raysan5, that focuses coding games with fancy overhead or visual editor, <em>"Just coding in the most pure spartan-programmers way"</em>. With Raylib being so flexible, it allows for many bindings to be made for other programming languages, in this case, I used the Raylib-J handmade binding made by CreedVI. Since the editor is a full suite that allows you build levels, and it's written pure Java, editor aspect <strong>theoretically can be intergated to any Raylib project</strong>, using <strong>ANY programming languages</strong>. Thus making it easier for anyone to build a platformer game using SRM as a tool! :)  <br />
+  For developers, this was made using pure Java, and the Raylib-J library. Raylib is amazing C library mabe by Raysan5, that focuses coding games with no fancy overhead or visual editor, <em>"Just coding in the most pure spartan-programmers way"</em>. With Raylib being so flexible, it allows for many bindings to be made for other programming languages, in this case, I used the Raylib-J handmade binding made by CreedVI. Since the editor is a full suite that allows you build levels, and it's written pure Java, editor aspect <strong>theoretically can be intergated to any Raylib project</strong>, using <strong>ANY programming languages</strong>. Thus making it easier for anyone to build a platformer game using SRM as a tool! :)  <br />
 
 </p>
 
