@@ -58,7 +58,7 @@ That's it! Your ready to get building levels!
 
 Want to tinker around, modify, possibly integrate in your own project, or contribute? Here's how you can get started with the code and compile.
 
-1. this repository through zip, or git.
+1. Download this repository through zip, or git.
 2. Have or download a java IDE like Intellij IDEA or Eclipse (Intellij IDEA is recommended): https://www.jetbrains.com/idea/download
 3. Open/import the project in the IDE
 4. That's it! Your ready to get coding! 
